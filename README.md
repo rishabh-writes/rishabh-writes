@@ -1,12 +1,8 @@
-**Hey there 👋** I am a Software Developer building AI-powered web applications.
+**Hey i'm Rishabh**
 
-**Currently:** Fullstack Developer Intern at Tidyhire
-**Previously:** Frontend Developer Intern at Cekura AI (YC F24)  
-**Built:** NotesNeo (1000+ students) • ResumeGPT (200+ users) • NeoCompiler  
+Check out my [portfolio]
 
-Check out my [portfolio](https://deepakmodi.dev).
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,graphql,prisma,mongodb,mysql,postgresql,firebase)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,sql)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/decodewithdeepak/decodewithdeepak/output/github-contribution-grid-snake-dark.svg">
