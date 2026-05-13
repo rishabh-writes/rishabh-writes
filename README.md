@@ -1,6 +1,10 @@
-## Hi there 👋
-
-<!--
+Hi there 👋, I'm Rishabh
+🚀 About Me
+🎓 Student / Developer / Designer
+💻 Interested in Web Development, AI, and Open Source
+🌱 Currently learning: Python, Java, React, etc.
+📫 Reach me at: yourmail@example.com
+⚡ Fun fact: Add something interesting about yourself
 **rishabh-writes/rishabh-writes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
